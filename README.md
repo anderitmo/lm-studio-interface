@@ -1,2 +1,2 @@
-# lm-studio-interface
+# LM Sudio Interface
 Interface para LM Studio
